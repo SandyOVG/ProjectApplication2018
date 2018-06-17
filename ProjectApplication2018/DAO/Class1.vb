@@ -2,6 +2,6 @@
 
     Public Sub prueba()
         Dim prueba As String
-        prueba = "joshua rico"
+        prueba = "joshua tiene la autoestima muy alta"
     End Sub
 End Class
